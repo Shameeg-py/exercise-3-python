@@ -16,7 +16,7 @@ def personalized_greeting(name):
 
 # TODO: Call the 'personalized_greeting' function with your name
 
-personalized_greeting("Mikyle and Connor")
+personalized_greeting("Shameeg")
 
 #------------------------------------------------------------------------------------
 # Question 3: Function with Return Value
